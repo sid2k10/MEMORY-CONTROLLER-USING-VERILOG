@@ -1,5 +1,7 @@
 Verilog Memory Controller
-Overview
+Overview   :
+
+
 This project is a memory controller implemented in Verilog, designed to efficiently manage data transfers between a processing unit and memory modules. The controller supports various memory types, providing a flexible solution for different applications.
 
 Features
