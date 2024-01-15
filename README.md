@@ -5,7 +5,6 @@ Overview   :
 This project is a memory controller implemented in Verilog, designed to efficiently manage data transfers between a processing unit and memory modules. The controller supports various memory types, providing a flexible solution for different applications.
 
 Features
-Memory Types: Supports different memory types, such as SRAM, DRAM, and Flash, allowing seamless integration into diverse systems.
 
 Address Mapping: Efficiently maps logical addresses to physical addresses, optimizing memory access and ensuring data integrity.
 
